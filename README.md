@@ -6,6 +6,7 @@ An AI-driven, real-time Intrusion Detection System (IDS) dashboard. NexusGuard l
 
 ![NexusGuard Dashboard](assets/image.png)
 
+
 ## Features
 
 - **Live Anomaly Detection**: Uses a Random Forest classifier to instantly evaluate network packets.
