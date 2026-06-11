@@ -1,10 +1,10 @@
-# NexusGuard: AI Network Sentinel
+# Anomaly-x: AI Network Sentinel
 
-An AI-driven, real-time Intrusion Detection System (IDS) dashboard. NexusGuard leverages Machine Learning (Random Forest) to instantly dissect network packet signatures, flagging anomalous behavior with a sleek, cyberpunk-inspired visualization matrix built on Streamlit.
+An AI-driven, real-time Intrusion Detection System (IDS) dashboard. Anomaly-x leverages Machine Learning (Random Forest) to instantly dissect network packet signatures, flagging anomalous behavior with a sleek, cyberpunk-inspired visualization matrix built on Streamlit.
 
 ## Dashboard Preview
 
-![NexusGuard Dashboard](assets/image.png)
+![Anomaly-x Dashboard](assets/image.png)
 
 
 ## Features
@@ -18,8 +18,8 @@ An AI-driven, real-time Intrusion Detection System (IDS) dashboard. NexusGuard l
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YounisJ/NexusGuard.git
-cd NexusGuard
+git clone https://github.com/YounisJ/Anomaly-x.git
+cd Anomaly-x
 ```
 
 ### 2. Install dependencies
