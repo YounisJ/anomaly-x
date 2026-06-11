@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 import os
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="NexusGuard | AI Sentinel", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Anomaly-x | AI Sentinel", layout="wide", initial_sidebar_state="expanded")
 
 # Inject Custom CSS for Rich Aesthetics
 st.markdown("""
@@ -118,7 +118,7 @@ def load_and_train():
     
     return model, encoders, options
 
-st.title("🛡️ NexusGuard: AI Sentinel")
+st.title("🛡️ Anomaly-x: AI Sentinel")
 st.markdown("Real-time Intrusion Detection System powered by Machine Learning on the NSL-KDD matrix.")
 
 with st.spinner("Initializing models and loading dataset..."):
